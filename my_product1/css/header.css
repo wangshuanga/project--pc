@@ -1,0 +1,29 @@
+.title_menu_cpzs:focus {
+    width: 100%;
+    border-bottom: 2px solid #886E63;
+}
+
+.title_img_logo img {
+    width: 240px;
+    height: 60px;
+}
+
+@media screen and (max-width: 575px) {
+    .row nav {
+        position: absolute !important;
+        right: 5%;
+        top: 2%;
+    }
+
+    .row .title_img_logo {
+        width: 160px;
+        height: 40px;
+    }
+
+    .title_img_logo img {
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        max-height: 100%;
+    }
+}

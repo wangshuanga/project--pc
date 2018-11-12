@@ -1,0 +1,15 @@
+.footer_top{
+    background:#191919;
+}
+.footer_bottom {
+    height: 80px;
+    width: 100%;
+    line-height: 3rem;
+    background: #000000;
+}
+a:hover{
+    color:#f5f5f5!important;
+}
+.my_text{
+    margin-right: 100px!important;
+}
